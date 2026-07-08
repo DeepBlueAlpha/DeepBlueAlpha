@@ -6,7 +6,7 @@
 
 ## Live snapshot
 
-As of the latest pull from the dashboard: 15,204 tracked whale wallets active on the feed, $5.38B in 24-hour whale volume across the cohort, 10,025 whale trades logged in the past 24 hours, and a −$625.3M net direction across the cohort. Numbers update on every block.
+As of the latest pull from the dashboard: 27,079 tracked whale wallets (831 active in the last 24 hours), $167.3M in 24-hour whale volume across DEX and CEX flows, 407 confirmed DEX trades in the past 24 hours, and a +$23.1M net inflow (57% inflow share). Numbers update on every block.
 
 ## What we do
 
